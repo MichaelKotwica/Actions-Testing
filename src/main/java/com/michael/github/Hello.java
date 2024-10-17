@@ -3,7 +3,7 @@ package com.michael.github;
 public class Hello {
 
     public String helloStr() {
-        return "Hello Worl";
+        return "Hello World!";
     }
 
 }
